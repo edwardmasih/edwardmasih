@@ -28,8 +28,7 @@
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
-
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=edwardmasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+<br>
 
 ### Languages, Tools & Frameworks:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -55,5 +54,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
 <br><br>
+
+![Edward's github stats](https://github-readme-stats.vercel.app/api?username=edwardmasih&show_icons=true)
 
 ### Thank You - 🙏
