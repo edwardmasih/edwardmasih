@@ -9,6 +9,7 @@
 <a href="https://t.me/edwardmasih">
   <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+</br>
 Here are some personal information to get you started:
 
 - 🔭 I’m currently working on Personal projects based on Django
