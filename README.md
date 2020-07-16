@@ -15,6 +15,7 @@
 <br><br>
 
 *Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*
+<br>
 *Currently, I am working as Partner with Vichinoti & Co. as a Creative Head. I am a Technical Advisor as well as Social Media Manager of the Start-Up. Currently working on the website and application for Vichinoti & Co. , which is a Travel Agency started by my two best friends.*
 
 ***I like teaming up with people with similar mindset as mine.***
