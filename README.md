@@ -1,5 +1,4 @@
-### Hey 👋🏽, I'm Edward, 
-#### a Computer Science & Engineering graduate from Chattisgarh, India! 
+### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chattisgarh, India!_
 
 <br>
 <a href="https://www.linkedin.com/in/edwardmasih/">
@@ -14,7 +13,7 @@
 <a href="https://www.hackerrank.com/edwardmasih/">
   <img align="left" alt="Edward's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<br>
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
