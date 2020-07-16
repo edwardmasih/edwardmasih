@@ -13,6 +13,7 @@
   <img align="left" alt="Edward's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
+
 *Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future. Currently, I am working as Partner with Vichinoti & Co. as a Creative Head. I am a Technical Advisor as well as Social Media Manager of the Start-Up. Currently working on the website and application for Vichinoti & Co. , which is a Travel Agency started by my two best friends.*
 
 ***I like teaming up with people with similar mindset as mine.***
@@ -31,7 +32,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
-### Languages, Tools & Frameworks:
+### _Languages, Tools & Frameworks:_
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
