@@ -22,7 +22,7 @@ Currently, I am working as Partner with Vichinoti & Co. as a Creative Head. I am
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
-#### ***Here are some personal information to get you started:***
+#### Here are some personal information to get you started:
 
 - 🔭 I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
 - 🌱 I’m currently learning Django and Flutter
@@ -33,7 +33,6 @@ Currently, I am working as Partner with Vichinoti & Co. as a Creative Head. I am
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
-<br>
 
 ### Languages, Tools & Frameworks:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
