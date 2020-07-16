@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm Edward, a computer science & engineering graduate from Chattisgarh, India! 
-</br>
+
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,6 +10,7 @@
   <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></br>
 ### Here are some personal information to get you started:
 
 - 🔭 I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
@@ -21,8 +22,6 @@
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
 ### Languages, Tools & Frameworks:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
