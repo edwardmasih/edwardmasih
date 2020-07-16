@@ -10,6 +10,9 @@
 <a href="https://t.me/edwardmasih">
   <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.hackerrank.com/edwardmasih/">
+  <img align="left" alt="Edward's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
@@ -51,5 +54,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/linux/city-lights.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
-<br>
+<br><br>
+
 ### Thank You - 🙏
