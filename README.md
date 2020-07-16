@@ -12,9 +12,9 @@
 </a>
 <br>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
-### Here are some personal information to get you started:
+***Here are some personal information to get you started:***
 
 - 🔭 I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
 - 🌱 I’m currently learning Django and Flutter
@@ -25,6 +25,8 @@
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
+<br>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=edwardmasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
 ### Languages, Tools & Frameworks:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -49,7 +51,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/linux/city-lights.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
-
-<img src='https://github-readme-stats.vercel.app/api?username=edwardmasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
-
+<br>
 ### Thank You - 🙏
