@@ -1,4 +1,5 @@
-### Hey 👋🏽, I'm Edward, a computer science & engineering graduate from Chattisgarh, India! 
+### Hey 👋🏽, I'm Edward, 
+#### a Computer Science & Engineering graduate from Chattisgarh, India! 
 
 <br>
 <a href="https://www.linkedin.com/in/edwardmasih/">
@@ -17,7 +18,7 @@
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
-***Here are some personal information to get you started:***
+### ***Here are some personal information to get you started:***
 
 - 🔭 I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
 - 🌱 I’m currently learning Django and Flutter
@@ -28,7 +29,7 @@
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
-<br>
+
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=edwardmasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
 ### Languages, Tools & Frameworks:
