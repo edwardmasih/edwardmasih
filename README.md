@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Edward! 
+### Hey 👋🏽, I'm Edward, a computer science & engineering graduate from Chattisgarh, India! 
 </br>
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,8 +10,10 @@
   <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </br></br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-**Here are some personal information to get you started:**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+</br>
+
+### Here are some personal information to get you started:
 
 - 🔭 I’m currently working on Personal projects based on Django
 - 🌱 I’m currently learning Django and Flutter
@@ -21,7 +23,7 @@
 - 📫 How to reach me: masih.edward45@gmail.com&
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/1pAd7fh9dDGXEWDLR0TPI5rgjrJU_QY-H/view)
+- 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
 </br>
 <img src='https://github-readme-stats.vercel.app/api?username=edwardmasih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
@@ -41,4 +43,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**Thank You - 🙏**
+### Thank You - 🙏
