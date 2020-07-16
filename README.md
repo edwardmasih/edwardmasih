@@ -11,8 +11,6 @@
 </a>
 </br></br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
-</br>
-
 ### Here are some personal information to get you started:
 
 - 🔭 I’m currently working on Personal projects based on Django
@@ -20,7 +18,7 @@
 - 👯 I’m looking to collaborate on Flutter apps or Django REST API
 - 🤔 I’m looking for help with Algorithms and Data Structures :cry: 😜
 - 💬 Ask me about Life, haha
-- 📫 How to reach me: masih.edward45@gmail.com&
+- 📫 How to reach me: masih.edward45@gmail.com
 - 😄 Pronouns: Prince, Edu!
 - ⚡ Fun fact: I love singing!
 - 📝[Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
