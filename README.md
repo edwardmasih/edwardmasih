@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chattisgarh, India!_
+### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
 <br>
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,7 @@
 <br><br>
 
 *Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*
-<br>
+<br><br>
 *Currently, I am working as Partner with Vichinoti & Co. as a Creative Head. I am a Technical Advisor as well as Social Media Manager of the Start-Up. Currently working on the website and application for Vichinoti & Co. , which is a Travel Agency started by my two best friends.*
 
 ***I like teaming up with people with similar mindset as mine.***
