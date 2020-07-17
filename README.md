@@ -22,17 +22,17 @@
 
 ### _Here are some personal information to get you started:_
 
->-  🔭  I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
->-  🌱  I’m currently learning Django and Flutter
->-  👯  I’m looking to collaborate on Flutter apps or Django REST API
->-  🤔  I’m looking for help with Algorithms and Data Structures 😭
->-  💬  Ask me about anything, happy to help
->-  📫  How to reach me: masih.edward45@gmail.com
->-  😄  Pronouns: Prince, Edu!
->-  ⚡  Fun fact: I love singing!
->-  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
+>  🔭  I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻
+>  🌱  I’m currently learning Django and Flutter
+>  👯  I’m looking to collaborate on Flutter apps or Django REST API
+>  🤔  I’m looking for help with Algorithms and Data Structures 😭
+>  💬  Ask me about anything, happy to help
+>  📫  How to reach me: masih.edward45@gmail.com
+>  😄  Pronouns: Prince, Edu!
+>  ⚡  Fun fact: I love singing!
+>  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/94a7a5973cba7bfc5fcde854959a46d4/tenor.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
 ### _Languages, Tools & Frameworks:_
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
