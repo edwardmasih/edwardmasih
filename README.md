@@ -32,7 +32,7 @@
 >-  ⚡  Fun fact: I love singing!
 >-  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/94a7a5973cba7bfc5fcde854959a46d4/tenor.gif"/>
 
 ### _Languages, Tools & Frameworks:_
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
