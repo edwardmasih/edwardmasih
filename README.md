@@ -22,15 +22,15 @@
 
 ### _Here are some personal information to get you started:_
 
->  🔭  I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻 <br>
->  🌱  I’m currently learning Django and Flutter <br>
->  👯  I’m looking to collaborate on Flutter apps or Django REST API <br>
->  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
->  💬  Ask me about anything, happy to help <br>
->  📫  How to reach me: masih.edward45@gmail.com <br>
->  😄  Pronouns: Prince, Edu! <br>
->  ⚡  Fun fact: I love singing! <br>
->  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
+>-  🔭  I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻 <br>
+>-  🌱  I’m currently learning Django and Flutter <br>
+>-  👯  I’m looking to collaborate on Flutter apps or Django REST API <br>
+>-  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
+>-  💬  Ask me about anything, happy to help <br>
+>-  📫  How to reach me: masih.edward45@gmail.com <br>
+>-  😄  Pronouns: Prince, Edu! <br>
+>-  ⚡  Fun fact: I love singing! <br>
+>-  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
