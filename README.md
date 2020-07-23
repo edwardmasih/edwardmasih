@@ -14,7 +14,9 @@
 <a href="https://www.hackerrank.com/edwardmasih/">
   <img align="left" alt="Edward's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<br><br>
+<br>
+<br>
+
 
 *Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*
 
