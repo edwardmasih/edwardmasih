@@ -1,11 +1,13 @@
 ### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
-<br>
+<hr><br>
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/edwardmasih_/">
   <img align="left" alt="Edward's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/edward.masih/">
+  <img align="left" alt="Edward's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="https://t.me/edwardmasih">
   <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
