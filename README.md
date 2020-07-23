@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
-<hr><br>
+<hr>
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,7 +16,6 @@
 </a>
 <br>
 <br>
-
 
 *Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*
 
