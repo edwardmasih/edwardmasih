@@ -17,7 +17,7 @@
   <a href="https://www.github.com/edwardmasih/">
   <img align="left" alt="Edward's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih" /> </p>
 <br>
 <br>
 
