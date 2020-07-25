@@ -2,21 +2,21 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih" /> </p>
 <a href="https://www.linkedin.com/in/edwardmasih/">
-  <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Edward's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/edwardmasih_/">
-  <img align="left" alt="Edward's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/edward.masih/">
-  <img align="left" alt="Edward's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="https://t.me/edwardmasih">
-  <img align="left" alt="Edward's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.hackerrank.com/edwardmasih/">
-  <img align="left" alt="Edward's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
   <a href="https://www.github.com/edwardmasih/">
-  <img align="left" alt="Edward's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Edward's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
 <br>
@@ -71,6 +71,6 @@
 
 <div align="center">
   
-### Thank You - 🙏 Show some ❤️ by starring some of the repositories!
+### Thank You 🙏 Show some ❤️ by starring some of the repositories!
 
 </div>
