@@ -66,7 +66,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
 <br><br>
 
-![Edward's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih)
+![Edward's github top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih&hide=kotlin,)
 ![Edward's github stats](https://github-readme-stats.vercel.app/api?username=edwardmasih&show_icons=true)
 
 <div align="center">
