@@ -1,6 +1,5 @@
 ### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
 <hr>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,6 +17,7 @@
   <a href="https://www.github.com/edwardmasih/">
   <img align="left" alt="Edward's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <br>
 <br>
 
