@@ -76,4 +76,6 @@
 
 [![Linkedin: edwardmasih](https://img.shields.io/badge/-edwardmasih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwardmasih/)](https://www.linkedin.com/in/edwardmasih/)
 
+[![Linkedin: edwardmasih](https://img.shields.io/badge/-edwardmasih-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/edwardmasih_/)](https://www.instagram.com/edwardmasih_/)
+
 </div>
