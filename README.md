@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
 <hr>
-<img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih" />
-[![Linkedin: edwardmasih](https://img.shields.io/badge/-edwardmasih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwardmasih/)](https://www.linkedin.com/in/edwardmasih/)
+<img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih"/>
+
 <a href="https://www.linkedin.com/in/edwardmasih/">
   <img align="left" alt="Edward's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -73,5 +73,7 @@
 <div align="center">
   
 ### Thank You 🙏 Show some ❤️ by starring some of the repositories!
+
+[![Linkedin: edwardmasih](https://img.shields.io/badge/-edwardmasih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwardmasih/)](https://www.linkedin.com/in/edwardmasih/)
 
 </div>
