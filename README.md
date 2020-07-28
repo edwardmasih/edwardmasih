@@ -75,11 +75,11 @@
 ### Thank You 🙏 Show some ❤️ by starring some of the repositories!
 
 <a href="https://www.linkedin.com/in/edwardmasih/">
-  <img align="left" alt="Edward's LinkdeIN" src="https://img.shields.io/badge/-edwardmasih-blue?style=flat&logo=Linkedin&logoColor=white" />
+  <img alt="Edward's LinkdeIN" src="https://img.shields.io/badge/-edwardmasih-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/edwardmasih_/">
-  <img align="left" alt="Edward's Instagram" src="https://img.shields.io/badge/-edwardmasih_-DD2A7B?style=flat&logo=Instagram&logoColor=white" />
+  <img alt="Edward's Instagram" src="https://img.shields.io/badge/-edwardmasih_-DD2A7B?style=flat&logo=Instagram&logoColor=white" />
 </a>
 
 </div>
