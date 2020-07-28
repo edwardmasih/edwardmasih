@@ -79,7 +79,7 @@
 </a>
 
 <a href="https://www.instagram.com/edwardmasih_/">
-  <img alt="Edward's Instagram" src="https://img.shields.io/badge/-edwardmasih_-DD2A7B?style=flat&logo=Instagram&logoColor=white" />
+  <img alt="Edward's Instagram" src="https://img.shields.io/badge/-edwardmasih%5F-DD2A7B?style=flat&logo=Instagram&logoColor=white" />
 </a>
 
 </div>
