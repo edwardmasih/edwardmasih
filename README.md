@@ -36,7 +36,7 @@
 >-  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
 >-  💬  Ask me about anything, happy to help <br>
 >-  📫  How to reach me: masih.edward45@gmail.com <br>
->-  😄  Pronouns: Prince, Edu! <br>
+>-  😄  Nicknames: Prince, Edu! <br>
 >-  ⚡  Fun fact: I love singing! <br>
 >-  📝  [Resume](https://drive.google.com/file/d/1cg640fMsOwRf0wLBWAqDgr3GWjD9m3NW/view?usp=sharing)
 
