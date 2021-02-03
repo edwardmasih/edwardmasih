@@ -68,7 +68,6 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
-
 <br><br>
 
 ![Edward's github top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih&hide=kotlin,)
