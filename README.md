@@ -3,22 +3,19 @@
 <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih"/>
 
 <a href="https://www.linkedin.com/in/edwardmasih/">
-  <img align="left" alt="Edward's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Edward's LinkedIN" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.instagram.com/edwardmasih_/">
-  <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+  
 </a>
 <a href="https://www.facebook.com/edward.masih/">
-  <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />
 <a href="https://t.me/edwardmasih">
-  <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a>
 <a href="https://www.hackerrank.com/edwardmasih/">
-  <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-  <a href="https://www.github.com/edwardmasih/">
-  <img align="left" alt="Edward's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+  <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
 <br>
 <br>
 
@@ -65,7 +62,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/linux/city-lights.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
 <br><br>
