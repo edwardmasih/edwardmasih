@@ -24,7 +24,7 @@
 
 ***Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.***
 
-*Currently, I am working on a Start-Up which is a Social Media Platform and side by side working as Partner with Vichinoti & Co. as a Creative Head. I am a Technical Advisor as well as Social Media Manager of the Start-Up. Currently working on the website and application for Vichinoti & Co. , which is a Travel Agency started by my two best friends.*
+*Currently, I am working on a Start-Up for all artists which is a Social Media Platform and side by side working as Partner with Vichinoti & Co. (which is a Travel Agency started by my two best friends) as a Creative Head. I have basic understanding of Django Web-Dev and I am currently learning React.js and brushing up Flutter*
 
 ***I like teaming up with people with similar mindset as mine.***
 
