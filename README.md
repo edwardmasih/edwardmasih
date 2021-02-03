@@ -7,15 +7,17 @@
 </a>
 <a href="https://www.instagram.com/edwardmasih_/">
   <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
-  
 </a>
 <a href="https://www.facebook.com/edward.masih/">
   <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />
+</a>
 <a href="https://t.me/edwardmasih">
   <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a>
 <a href="https://www.hackerrank.com/edwardmasih/">
   <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
+</a>
+
 <br>
 <br>
 
