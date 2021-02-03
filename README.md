@@ -3,21 +3,22 @@
 <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Profile Views&color=blue&style=plastic" alt="edwardmasih"/>
 
 <a href="https://www.linkedin.com/in/edwardmasih/">
-  <img align="left" alt="Edward's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Edward's LinkedIN" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.instagram.com/edwardmasih_/">
-  <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Edward's Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+  
 </a>
 <a href="https://www.facebook.com/edward.masih/">
-  <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Edward's Facebook" width="25px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />
 <a href="https://t.me/edwardmasih">
-  <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Edward's Telegram" width="25px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a>
 <a href="https://www.hackerrank.com/edwardmasih/">
-  <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Edward's HackerRank" width="25px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
 </a>
   <a href="https://www.github.com/edwardmasih/">
-  <img align="left" alt="Edward's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Edward's Github" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1612370380~hmac=0d57823920f5b4dda8c9446c3585d69f" />
 </a>
 <br>
 <br>
@@ -43,31 +44,31 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
 ### _Languages, Tools & Frameworks that I know and constantly learning:_
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://cw-production-assetsbucket-8j84s7jns7p2.s3.amazonaws.com/media/blog-images/drf-logo2.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img height="40" src="https://cw-production-assetsbucket-8j84s7jns7p2.s3.amazonaws.com/media/blog-images/drf-logo2.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-[<code><img height="40" src="http://pluspng.com/img-png/bootstrap-logo-png-bootstrap-1024.png"></code>](https://getbootstrap.com)
-[<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>](https://tailwindcss.com/)
-[<code><img height="40" src="https://avatars0.githubusercontent.com/u/67643916?s=400&v=4"></code>](https://www.gethalfmoon.com/docs/introduction/)
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+[<img height="40" src="http://pluspng.com/img-png/bootstrap-logo-png-bootstrap-1024.png">](https://getbootstrap.com)
+[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">](https://tailwindcss.com/)
+[<img height="40" src="https://avatars0.githubusercontent.com/u/67643916?s=400&v=4">](https://www.gethalfmoon.com/docs/introduction/)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="40" src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png">
 
-<code><img height="40" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/linux/city-lights.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
+<img height="40" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/linux/city-lights.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
 <br><br>
 
 ![Edward's github top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih&hide=kotlin,)
