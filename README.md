@@ -23,15 +23,15 @@
 
 ***Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.***
 
-*Currently, I am working on a Start-Up for all artists which is a Social Media Platform and side by side working as Partner with [Vichinoti & Co.](https://vichinotico.wixsite.com/website)  as a Creative Head (which is a Travel Agency started by my two best friends).<br>I have basic understanding of <b>Django</b> Web-Dev and I am currently learning <b>React.js</b> and brushing up <b>Flutter</b>*
+*Currently, I am working on a Start-Up for all artists which is a Social Media Platform and side by side working as Partner with [Vichinoti & Co.](https://vichinotico.wixsite.com/website)  as a Creative Head (which is a Travel Agency started by my two best friends).<br>I have basic understanding of <b>Django</b> Web-Dev and I am currently learning <b>Angular</b> and brushing up <b>Flutter</b>*
 
 ***I like teaming up with people with similar mindset as mine.***
 
 ### _Here are some personal information to get you started:_
 
->-  🔭  I’m currently working on Personal projects based on Django, Flutter 👨🏽‍💻 <br>
->-  🌱  I’m currently learning Django and Flutter <br>
->-  👯  I’m looking to collaborate on Flutter apps or Django REST API <br>
+>-  🔭  I’m currently working on Personal projects based on Angular 👨🏽‍💻 <br>
+>-  🌱  I’m currently learning Angular<br>
+>-  👯  I’m looking to collaborate on Angular or FlutterUI apps or Django REST API <br>
 >-  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
 >-  💬  Ask me about anything, happy to help <br>
 >-  📫  How to reach me: masih.edward45@gmail.com <br>
@@ -43,11 +43,13 @@
 
 ### _Languages, Tools & Frameworks that I know and constantly learning:_
 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://cw-production-assetsbucket-8j84s7jns7p2.s3.amazonaws.com/media/blog-images/drf-logo2.png"></code>
@@ -66,8 +68,8 @@
 <code><img height="40" src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png"></code>
 
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
+<code><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
 <br><br>
 
 ![Edward's github top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih&hide=kotlin,)
