@@ -44,8 +44,8 @@
 
 ### _Languages, Tools & Frameworks that I know and constantly learning:_
 
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">	&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">	&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">	&nbsp;
 <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">	&nbsp;
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmasih&hide=kotlin"/>
+<img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardmasih&show_icons=true&locale=en&layout=compact&hide=kotlin"/><br>
   
 ![Edward's github stats](https://github-readme-stats.vercel.app/api?username=edwardmasih&show_icons=true)
 ![Edward's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edwardmasih&)
