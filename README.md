@@ -1,3 +1,4 @@
+
 ### Hey 👋🏽, I'm Edward, _a Computer Science & Engineering graduate from Chhattisgarh, India!_
 <hr>
 <img src="https://komarev.com/ghpvc/?username=edwardmasih&label=Views&color=blue&style=plastic" alt="edwardmasih"/>
@@ -45,10 +46,12 @@
 ### _Languages, Tools & Frameworks that I know and constantly learning:_
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">	&nbsp;
-<img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">	&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	&nbsp;
+<img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">	&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">	&nbsp;
+<img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">	&nbsp;
+
 
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">	&nbsp;
@@ -59,14 +62,15 @@
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">	&nbsp;
-[<img height="40" src="http://pluspng.com/img-png/bootstrap-logo-png-bootstrap-1024.png">	&nbsp;](https://getbootstrap.com)
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">	&nbsp;
+[<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">	&nbsp;](https://getbootstrap.com)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">	&nbsp;](https://tailwindcss.com/)
 [<img height="40" src="https://avatars0.githubusercontent.com/u/67643916?s=400&v=4">	&nbsp;](https://www.gethalfmoon.com/docs/introduction/)
 
-<img height="40" src="https://nodejs.org/static/images/logos/nodejs-new-white.svg">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">	&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">	&nbsp;
+<img height="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg">	&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">	&nbsp;
+<img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">	&nbsp;
+<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">	&nbsp;
 
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">	&nbsp;
 <img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png">	&nbsp;
