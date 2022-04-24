@@ -22,7 +22,7 @@
 <br>
 <br>
 
-*Currently, I am working as a Web-Develope at [Lead Angel](https://https://www.leadangel.com/), the technology stack I am working on are <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev and I am still pushing myself to learn Full-stack*
+*Currently, I am working as a Web-Develope at [Lead Angel](https://https://www.leadangel.com/), the technology stack I am working on are <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev & <b>Flutter</b> and I am still pushing myself to learn Full-stack*
 
 ***Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*** <br>
 ***I like teaming up with people with similar mindset as mine.***
@@ -38,7 +38,7 @@
 >-  📫  How to reach me: masih.edward45@gmail.com <br>
 >-  😄  Nicknames: Prince, Edu! <br>
 >-  ⚡  Fun fact: I love singing! <br>
->-  📝  [Resume](https://drive.google.com/file/d/1LYtSNymE_jl2FzLMD-rnII7x2NUNZa__/view?usp=sharing)
+>-  📝  [Resume](https://drive.google.com/file/d/1I1rAGAdJmDI1BM4x8OOzGwcB9UmZCnh_/view?usp=sharing)
 
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
