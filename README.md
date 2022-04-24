@@ -22,7 +22,7 @@
 <br>
 <br>
 
-*Currently, I am working as a Web-Develope at [Lead Angel](https://https://www.leadangel.com/), the technology stack I am working on are <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev & <b>Flutter</b> and I am still pushing myself to learn Full-stack*
+*Currently, I am working as a Web-Developer at [Lead Angel](https://https://www.leadangel.com/), the technology stack I am working on are <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev & <b>Flutter</b> and I am still pushing myself to learn Full-stack development*
 
 ***Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*** <br>
 ***I like teaming up with people with similar mindset as mine.***
