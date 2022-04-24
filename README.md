@@ -32,7 +32,7 @@
 
 >-  🔭  I’m currently working on Personal projects based on Angular 👨🏽‍💻 <br>
 >-  🌱  I’m currently learning Angular & NodeJs<br>
->-  👯  I’m looking to collaborate on Angular or FlutterUI apps or Django REST API <br>
+>-  👯  I’m looking to collaborate on Angular or FlutterUI apps or Node REST API <br>
 >-  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
 >-  💬  Ask me about anything, happy to help <br>
 >-  📫  How to reach me: masih.edward45@gmail.com <br>
