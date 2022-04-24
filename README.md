@@ -63,6 +63,7 @@
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">	&nbsp;](https://tailwindcss.com/)
 [<img height="40" src="https://avatars0.githubusercontent.com/u/67643916?s=400&v=4">	&nbsp;](https://www.gethalfmoon.com/docs/introduction/)
 
+<img height="40" src="https://nodejs.org/static/images/logos/nodejs-new-white.svg">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">	&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">	&nbsp;
