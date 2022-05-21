@@ -38,7 +38,7 @@
 >-  📫  How to reach me: masih.edward45@gmail.com <br>
 >-  😄  Nicknames: Prince, Edu! <br>
 >-  ⚡  Fun fact: I love singing! <br>
->-  📝  [Resume](https://drive.google.com/file/d/1I1rAGAdJmDI1BM4x8OOzGwcB9UmZCnh_/view?usp=sharing)
+>-  📝  [Resume](https://drive.google.com/file/d/1qzmoUeYNRLfSasaYKfJSdD3Xi9SQ8uJQ/view?usp=sharing)
 
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
