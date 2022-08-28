@@ -22,7 +22,7 @@
 <br>
 <br>
 
-*Currently, I am working as a Associate System Engineer at [IBM](https://ibm.com), previously worked as Web-Developer at [Lead Angel](https://https://www.leadangel.com/), the technology stack I was working on were <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev & <b>Flutter</b> and I am still pushing myself to learn Full-stack development*
+*Currently, I am working for American-Express as an Application Developer ( UI Development ) at [IBM](https://ibm.com), previously worked as Web-Developer at [Lead Angel](https://https://www.leadangel.com/), the technology stack I was working on were <b>Angular, NodeJs & SQL</b>.<br>I have basic understanding of <b>Django</b> Web-Dev & <b>Flutter</b> and I am still pushing myself to learn Full-stack development*
 
 ***Apart from Coding, I love Singing & Photography. I love to travel & to cook. These are what keeps me up, to run towards the better future.*** <br>
 ***I like teaming up with people with similar mindset as mine.***
@@ -30,8 +30,8 @@
 ### _Here are some personal information to get you started:_
 
 
->-  🔭  I’m currently working on Personal projects based on Angular 👨🏽‍💻 <br>
->-  🌱  I’m currently learning Angular & NodeJs<br>
+>-  🔭  I’m currently working on Client projects based on ReactJs 👨🏽‍💻 <br>
+>-  🌱  I’m currently learning ReactJs & NodeJs<br>
 >-  👯  I’m looking to collaborate on Angular or FlutterUI apps or Node REST API <br>
 >-  🤔  I’m looking for help with Algorithms and Data Structures 😭 <br>
 >-  💬  Ask me about anything, happy to help <br>
